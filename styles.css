@@ -1,0 +1,36 @@
+.dark-mode {
+  background-color: #222;
+  color: #f8f9fa;
+}
+
+.dark-mode .bg-light {
+  background-color: #343a40 !important;
+  color: #f8f9fa;
+}
+
+.color-box {
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.key-display,
+.result,
+.selected-color-display {
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-message {
+  transition: all 0.3s ease;
+}
+
+.counter-display {
+  transition: all 0.2s ease;
+}
+
+.timer-display {
+  font-family: monospace;
+  font-size: 2rem;
+}
