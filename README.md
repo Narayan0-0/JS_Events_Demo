@@ -34,3 +34,14 @@ A comprehensive interactive website demonstrating various JavaScript events and 
 - **JavaScript (ES6+)**: Vanilla JavaScript for all interactions
 - **Bootstrap 5**: Responsive grid system and components
 - **Font Awesome**: Icons (if applicable)
+
+## 📁 Project Structure
+
+```bash
+javascript-events-demo/
+│
+├── index.html          # Main HTML file
+├── styles.css          # Custom CSS styles
+├── script.js           # Vanilla JavaScript code
+└── README.md           # Project documentation
+```
