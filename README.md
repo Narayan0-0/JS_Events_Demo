@@ -65,7 +65,7 @@ This project demonstrates:
 ### Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/javascript-events-demo.git
+   git clone https://github.com/Narayan0-0/JS_Events_Demo.git
    \`\`\`
 
 2. Navigate to the project directory:
@@ -86,7 +86,7 @@ This project demonstrates:
    \`\`\`
 
 ### Live Demo
-You can also view the live demo at: [Your GitHub Pages URL]
+You can also view the live demo at: [JS_Events_Demo](https://narayan0-0.github.io/JS_Events_Demo/)
 
 ## 💡 How to Use
 
