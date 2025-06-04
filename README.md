@@ -118,3 +118,24 @@ To add new JavaScript events:
 - Add new interactive components
 - Implement additional JavaScript methods
 
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/new-event`)
+3. Commit your changes (`git commit -am 'Add new event handler'`)
+4. Push to the branch (`git push origin feature/new-event`)
+5. Create a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+## 🙏 Acknowledgments
+
+- Bootstrap team for the responsive framework
+- MDN Web Docs for JavaScript documentation
+- Community tutorials and examples
+
+---
+
+⭐ **Star this repository if you found it helpful!**
