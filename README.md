@@ -35,6 +35,11 @@ A comprehensive interactive website demonstrating various JavaScript events and 
 - **Bootstrap 5**: Responsive grid system and components
 - **Font Awesome**: Icons (if applicable)
 
+
+## Live Demo
+You can also view the live demo at: [JS_Events_Demo](https://narayan0-0.github.io/JS_Events_Demo/)
+
+
 ## 📁 Project Structure
 
 ```bash
@@ -84,9 +89,6 @@ This project demonstrates:
    # On Linux
    xdg-open index.html
    \`\`\`
-
-### Live Demo
-You can also view the live demo at: [JS_Events_Demo](https://narayan0-0.github.io/JS_Events_Demo/)
 
 ## 💡 How to Use
 
