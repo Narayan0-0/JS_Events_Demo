@@ -69,17 +69,17 @@ This project demonstrates:
 
 ### Installation
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Narayan0-0/JS_Events_Demo.git
-   \`\`\`
+   ```
 
 2. Navigate to the project directory:
-   \`\`\`bash
+   ```bash
    cd javascript-events-demo
-   \`\`\`
+   ```
 
 3. Open `index.html` in your web browser:
-   \`\`\`bash
+   ```bash
    # On macOS
    open index.html
    
@@ -88,7 +88,7 @@ This project demonstrates:
    
    # On Linux
    xdg-open index.html
-   \`\`\`
+   ```
 
 ## 💡 How to Use
 
